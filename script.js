@@ -51,5 +51,5 @@ fetch(url)
   })
   .catch((error) => {
     console.error("Error fetching data:", error);
-    // Handle the error, e.g., display an error message on the webpage
+    // Handle the error, e.g., Display an error message on the webpage
   });
