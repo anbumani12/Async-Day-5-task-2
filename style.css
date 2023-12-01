@@ -9,7 +9,7 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
-  background-color:rgb(103, 221, 221);
+  background-color: rgb(122, 229, 229);
 }
 
 .row {
@@ -47,10 +47,9 @@ body {
 .card-title {
   margin: 0;
   text-align: center;
-  background-color: #77a2d1; 
-  padding: 10px; 
+  background-color: #77a2d1;
+  padding: 10px;
 }
-
 
 .card-img-top {
   width: 100%;
@@ -59,7 +58,7 @@ body {
 
 .card-body {
   padding: 15px;
-  background-color: rgb(234, 243, 243);
+  background-color: rgb(223, 232, 232);
 }
 
 .card-text {
